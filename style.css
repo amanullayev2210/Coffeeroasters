@@ -1,0 +1,273 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Barlow" , "Arial" , sans-serif;
+    font-weight: 700px;
+}
+
+/* Header start */
+
+.container {
+    width: 1320px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.site-logo {
+    text-decoration: none;
+    color:#83888F;
+}
+
+.site-wrapper {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.site-header {
+    padding-top: 43px;
+    padding-bottom: 43px;
+}
+
+.nav-list {
+    display: flex;
+    gap: 33px;
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.nav-item {
+    list-style: none;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color:#83888F;
+}
+
+/* Header end */
+/* Main start */
+
+/* Hero start */
+
+
+.hero-info {
+    height: 450px;
+    background-image: url("imgs/hero.png");
+    background-repeat: no-repeat;
+    padding-top: 137px;
+    padding-left: 85px;
+    padding-right: 750px;
+}
+
+.hero-tittle {
+    font-family: "Fraunces", serif;
+    font-weight: 900px;
+    font-size: 40px;
+    margin: 0;
+    color: #FEFCF7;
+    line-height: 48px;
+}
+
+.hero-text {
+    margin: 0;
+    padding-top: 24px;
+    font-weight: 400px;
+    font-size: 16px;
+    color: #FEFCF7;
+    line-height: 26px;
+}
+
+/* Hero end */
+
+/* Services start */
+
+.services-wrapper {
+    width: 1110px;
+    display: flex;
+    padding-top: 168px;
+    justify-content: space-between;
+
+}
+
+.services-img {
+    border-radius: 10px;
+    padding-left: 85px;
+    padding-right: 125px;
+}
+
+.services-tittle {
+    padding-top: 90px;
+    font-family: "Fraunces", serif;
+    font-weight: 900px;
+    font-size: 40px;
+    line-height: 48px;
+    color: #333D4B;
+    margin: 0;
+}
+
+.services-text {
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 540px;
+    height: 260px;
+    padding-top: 32px;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+
+/* Services end */
+
+/* Stats start */
+
+
+.stats {
+    padding-top: 168px;
+}
+
+
+.stats-wrapper {
+    display: flex;
+    background-image: url("imgs/Stats.svg");
+    background-repeat: no-repeat;
+}
+
+.stats-info {
+    padding-left: 85px;
+    padding-right: 125px;
+}
+
+.stats-tittle {
+    margin: 0;
+    padding-top: 88px;
+    font-family: "Fraunces", serif;
+    font-weight: 900px;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FEFCF7;
+}
+
+.stats-text {
+    margin: 0;
+    padding-top: 32px;
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 26px;
+    color: #FEFCF7;
+}
+
+.stats-desc {
+    position: relative;
+    bottom: 88px;
+}
+
+
+/* Stats end */
+
+/* Description start */
+
+
+.desc {
+    padding-top: 168px;
+    padding-left: 85px;
+}
+
+.desc-tittle {
+    margin: 0;
+    padding-bottom: 72px;
+    font-family: "Fraunces", serif;
+    font-weight: 900px;
+    font-size: 24px;
+    line-height: 32px;
+    color: #83888F;
+}
+
+.desc-list {
+    display: flex;
+    gap: 160px;
+    margin: 0;
+}
+
+.desc-item {
+    list-style: none;
+}
+
+.desc-item-tittle {
+    font-family: "Fraunces", serif;
+    margin: 0;
+    padding-top: 45.93px;
+    font-weight: 900px;
+    font-size: 32px;
+    line-height: 36px;
+    color: #333D4B;
+}
+
+.desc-item-text {
+    margin: 0;
+    padding-top: 24px;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+}
+
+/* Description end */
+/* Main end */
+
+/* Footer start */
+
+.footer {
+    padding-top: 168px;
+}
+
+
+.footer-wrapper {
+    display: flex;
+    background-color: #2C343E;
+}
+
+.footer-logo {
+    text-decoration: none;
+    padding-top: 47px;
+    padding-bottom: 47px;
+    padding-left: 85px;
+    padding-right: 102.9px;
+}
+
+.footer-list {
+    display: flex;
+    margin: 0;
+    padding-right: 268px; 
+    gap: 33px;
+    padding-top: 53.44px;
+    padding-bottom: 51.56px;
+}
+
+.footer-item {
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.92px;
+    list-style: none;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: #83888F;
+}
+
+.footer-social-list {
+    padding-right: 85px;
+    padding-top: 47px;
+}
+
+/* Footer end */
