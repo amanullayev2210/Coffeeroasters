@@ -5,7 +5,7 @@
 body {
     margin: 0;
     font-family: "Barlow" , "Arial" , sans-serif;
-    font-weight: 700px;
+    font-weight: 700;
 }
 
 /* Header start */
@@ -70,7 +70,7 @@ body {
 
 .hero-tittle {
     font-family: "Fraunces", serif;
-    font-weight: 900px;
+    font-weight: 900;
     font-size: 40px;
     margin: 0;
     color: #FEFCF7;
@@ -80,7 +80,7 @@ body {
 .hero-text {
     margin: 0;
     padding-top: 24px;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 16px;
     color: #FEFCF7;
     line-height: 26px;
@@ -107,7 +107,7 @@ body {
 .services-tittle {
     padding-top: 90px;
     font-family: "Fraunces", serif;
-    font-weight: 900px;
+    font-weight: 900;
     font-size: 40px;
     line-height: 48px;
     color: #333D4B;
@@ -120,7 +120,7 @@ body {
     width: 540px;
     height: 260px;
     padding-top: 32px;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 16px;
     line-height: 26px;
 }
@@ -151,7 +151,7 @@ body {
     margin: 0;
     padding-top: 88px;
     font-family: "Fraunces", serif;
-    font-weight: 900px;
+    font-weight: 900;
     font-size: 40px;
     line-height: 48px;
     color: #FEFCF7;
@@ -161,7 +161,7 @@ body {
     margin: 0;
     padding-top: 32px;
     font-size: 16px;
-    font-weight: 400px;
+    font-weight: 400;
     line-height: 26px;
     color: #FEFCF7;
 }
@@ -186,7 +186,7 @@ body {
     margin: 0;
     padding-bottom: 72px;
     font-family: "Fraunces", serif;
-    font-weight: 900px;
+    font-weight: 900;
     font-size: 24px;
     line-height: 32px;
     color: #83888F;
@@ -206,7 +206,7 @@ body {
     font-family: "Fraunces", serif;
     margin: 0;
     padding-top: 45.93px;
-    font-weight: 900px;
+    font-weight: 900;
     font-size: 32px;
     line-height: 36px;
     color: #333D4B;
@@ -215,7 +215,7 @@ body {
 .desc-item-text {
     margin: 0;
     padding-top: 24px;
-    font-weight: 400px;
+    font-weight: 400;
     font-size: 16px;
     line-height: 26px;
     color: #333D4B;
